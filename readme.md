@@ -1,6 +1,6 @@
-#Various Notes on Using my Lab Stuff....  
+# Various Notes on Using my Lab Stuff....  
 
-##Virtual environments  
-	* Create: `mkvirtualenv`   
+## Virtual environments:  
+	*Create: `mkvirtualenv`   
 	* Use: `workon <virtualenv>` 
 	* Quitting: `deactivate`
